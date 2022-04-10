@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 - CS graduate of The UofSC
 - Cloud Administrator interested in becoming a Full Stack Developer
+
+---
+
+<br>
 
 |Languages |Tools       |Worflows |
 |----------|------------|-------|

@@ -1,0 +1,1 @@
+This site was created using the Jekyll Static Site Generator and is hosted on GitHub Pages
