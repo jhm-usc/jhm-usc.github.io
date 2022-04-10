@@ -26,7 +26,7 @@ baseurl: "/jhm-usc.github.io" # the subpath of your site, e.g. /blog
 url: "http://jhm-usc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  jhm-usc
-domain: "https://jhm-usc.github.io/jhm-usc.github.io"
+domain: "jhm-usc.github.io"
 
 # Build settings
 theme: minima
