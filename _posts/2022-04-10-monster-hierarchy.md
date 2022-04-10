@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Review of Energy Drinks"
+title:  "Review of Monster Zero Energy Drinks"
 ---
-
+\(monster please sponsor me\)
 1. Paradise
 ![Ultra Paradise](../ultra-paradise.jpg)
 - fizzy goodness
