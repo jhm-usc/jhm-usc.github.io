@@ -4,4 +4,3 @@
 
 layout: home
 ---
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
