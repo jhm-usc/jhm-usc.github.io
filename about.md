@@ -12,11 +12,11 @@ permalink: /about/
 
 |Languages |Tools       |Worflows |
 |----------|------------|-------|
-|C++       |Git         |Agile  |
+|C++       |Git         |Agile Philosophy |
 |Java      |Docker      |CI/CD  |
 |Python    |Kubernetes  |MEAN stack       |
 |Bash      |Jenkins     |JAM stack       |
-|Java      |Docker      |       |
+|Java      |Docker      |DevOps       |
 |Python    |Kubernetes  |       |
 |C#        |Unity       |       |
 |          |CLi Utilites|       |
