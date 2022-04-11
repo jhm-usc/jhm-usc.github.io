@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 - CS graduate of The UofSC
-- Cloud Administrator interested in becoming a Full Stack Developer
+- DevOps Engineer interested in becoming a Full Stack Developer
 
 ---
 
@@ -14,8 +14,8 @@ permalink: /about/
 |----------|------------|-------|
 |C++       |Git         |Agile  |
 |Java      |Docker      |CI/CD  |
-|Python    |Kubernetes  |       |
-|Bash      |Jenkins     |       |
+|Python    |Kubernetes  |MEAN stack       |
+|Bash      |Jenkins     |JAM stack       |
 |Java      |Docker      |       |
 |Python    |Kubernetes  |       |
 |C#        |Unity       |       |
@@ -23,3 +23,4 @@ permalink: /about/
 |          |AngularJS   |       |
 |          |Static Site Generators|
 |          |HTML/CSS/JS |       |
+|          |NodeJS      |       |
