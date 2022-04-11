@@ -6,4 +6,4 @@ layout: home
 ---
 hello, world
 
-<img src="/assets/pineapple.gif alt="Dancing pineapple">
+<img src="/assets/pineapple.gif" alt="Dancing pineapple">
