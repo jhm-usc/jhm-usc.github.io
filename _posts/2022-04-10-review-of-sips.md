@@ -39,7 +39,7 @@ title:  "Review of Sips"
 
 ---
 
-## Absolute Zero
+## Absolutely Zero
 
 <img src="/assets/absolute-zero.jpg" alt="Absolute Zero" width="200"/>
 
@@ -96,19 +96,19 @@ title:  "Review of Sips"
 
 ---
 
-## Peachy Keen
-
-<img src="/assets/peachy-keen.jpg" alt="Peachy Keen" width="200"/>
-
-- 7/10 worth a try
-
----
-
 ## Red
 
 <img src="/assets/red.png" alt="Red" width="200"/>
 
 - 8/10 kick in the head
+
+---
+
+## Peachy Keen
+
+<img src="/assets/peachy-keen.jpg" alt="Peachy Keen" width="200"/>
+
+- 7/10 worth a try
 
 ---
 
