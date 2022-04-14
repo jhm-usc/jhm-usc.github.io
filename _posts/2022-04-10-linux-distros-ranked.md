@@ -9,6 +9,6 @@ title:  "Ranking Linux Distros"
 5. Arch
 6. *BSD
 7. Gentoo
-8. Anything else that's not a derivative
+8. Any non-derivative
 9. Any derivative
 10. Ubuntu
