@@ -7,11 +7,11 @@ title:  "Review of Sips"
 ---
 
 <meta property="og:title" content="iPhone" />
-<meta property="og:image" content="/assets/favicon/apple-touch-icon.png" />
+<meta property="og:image" content="/assets/sips/favicon/apple-touch-icon.png" />
 
 ## Paradise
 
-<img src="/assets/paradise.jpg" alt="Paradise" width="200"/>
+<img src="/assets/favicon/paradise.jpg" alt="Paradise" width="200"/>
 
 - 10/10 fizzy goodness
 
@@ -19,7 +19,7 @@ title:  "Review of Sips"
 
 ## Gold
 
-<img src="/assets/gold.png" alt="Gold" width="200"/>
+<img src="/assets/sips/gold.png" alt="Gold" width="200"/>
 
 
 - 10/10 tropical refreshment
@@ -28,7 +28,7 @@ title:  "Review of Sips"
 
 ## Lo-Carb
 
-<img src="/assets/lo-carb.jpg" alt="Lo-Carb" width="200"/>
+<img src="/assets/sips/lo-carb.jpg" alt="Lo-Carb" width="200"/>
 
 - 10/10 that's good stuff
 
@@ -36,7 +36,7 @@ title:  "Review of Sips"
 
 ## Zero Sugar
 
-<img src="/assets/zero-sugar.jpg" alt="Zero Sugar" width="200"/>
+<img src="/assets/sips/zero-sugar.jpg" alt="Zero Sugar" width="200"/>
 
 - 10/10 lo-carbs half brother
 
@@ -44,7 +44,7 @@ title:  "Review of Sips"
 
 ## Absolutely Zero
 
-<img src="/assets/absolute-zero.jpg" alt="Absolute Zero" width="200"/>
+<img src="/assets/sips/absolute-zero.jpg" alt="Absolute Zero" width="200"/>
 
 - ?/10 lo-carbs second cousin
 
@@ -52,7 +52,7 @@ title:  "Review of Sips"
 
 ## Original
 
-<img src="/assets/original.png" alt="Original" width="200"/>
+<img src="/assets/sips/original.png" alt="Original" width="200"/>
 
 - 10/10 ulcer in a can
 
@@ -60,7 +60,7 @@ title:  "Review of Sips"
 
 ## Blue
 
-<img src="/assets/blue.jpg" alt="Blue" width="200"/>
+<img src="/assets/sips/blue.jpg" alt="Blue" width="200"/>
 
 - 9/10 waves of riveting
 
@@ -68,7 +68,7 @@ title:  "Review of Sips"
 
 ## Black
 
-<img src="/assets/black.png" alt="Black" width="200"/>
+<img src="/assets/sips/black.png" alt="Black" width="200"/>
 
 - ?/10 does it even exist
 
@@ -76,7 +76,7 @@ title:  "Review of Sips"
 
 ## White
 
-<img src="/assets/white.jpg" alt="White" width="200"/>
+<img src="/assets/sips/white.jpg" alt="White" width="200"/>
 
 
 - 9/10 a classic
@@ -85,7 +85,7 @@ title:  "Review of Sips"
 
 ## Rosa
 
-<img src="/assets/rosa.jpg" alt="Rosa" width="150"/>
+<img src="/assets/sips/rosa.jpg" alt="Rosa" width="150"/>
 
 - 8/10 refreshing
 
@@ -93,7 +93,7 @@ title:  "Review of Sips"
 
 ## Fiesta Mango
 
-<img src="/assets/fiesta.jpg" alt="Fiesta Mango" width="200"/>
+<img src="/assets/sips/fiesta.jpg" alt="Fiesta Mango" width="200"/>
 
 - 8/10 like sunshine
 
@@ -101,7 +101,7 @@ title:  "Review of Sips"
 
 ## Red
 
-<img src="/assets/red.png" alt="Red" width="200"/>
+<img src="/assets/sips/red.png" alt="Red" width="200"/>
 
 - 8/10 kick in the head
 
@@ -109,7 +109,7 @@ title:  "Review of Sips"
 
 ## Peachy Keen
 
-<img src="/assets/peachy-keen.jpg" alt="Peachy Keen" width="200"/>
+<img src="/assets/sips/peachy-keen.jpg" alt="Peachy Keen" width="200"/>
 
 - 7/10 worth a try
 
@@ -117,7 +117,7 @@ title:  "Review of Sips"
 
 ## Violet
 
-<img src="/assets/violet.jpg" alt="Violet" width="200"/>
+<img src="/assets/sips/violet.jpg" alt="Violet" width="200"/>
 
 - 5/10 could be worse
 
@@ -125,7 +125,7 @@ title:  "Review of Sips"
 
 ## Watermelon
 
-<img src="/assets/watermelon.jpg" alt="Watermelon" width="200"/>
+<img src="/assets/sips/watermelon.jpg" alt="Watermelon" width="200"/>
 
 
 - 3/10 waterno
@@ -134,7 +134,7 @@ title:  "Review of Sips"
 
 ## Sunshine
 
-<img src="/assets/sunrise.png" alt="Sunshine" width="200"/>
+<img src="/assets/sips/sunrise.png" alt="Sunshine" width="200"/>
 
 - 1/10 orange juice and toothpaste
 
