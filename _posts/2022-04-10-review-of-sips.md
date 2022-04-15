@@ -6,6 +6,9 @@ title:  "Review of Sips"
 
 ---
 
+<meta property="og:title" content="iPhone" />
+<meta property="og:image" content="/assets/favicon/apple-touch-icon.png" />
+
 ## Paradise
 
 <img src="/assets/paradise.jpg" alt="Paradise" width="200"/>
