@@ -11,7 +11,7 @@ title:  "Review of Sips"
 
 ## Paradise
 
-<img src="/assets/favicon/paradise.jpg" alt="Paradise" width="200"/>
+<img src="/assets/sips/paradise.jpg" alt="Paradise" width="200"/>
 
 - 10/10 fizzy goodness
 
