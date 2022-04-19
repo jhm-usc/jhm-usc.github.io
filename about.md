@@ -9,15 +9,15 @@ permalink: /about/
 
 <br>
 
-|Languages |Tools       |Worflows |
+|Languages |Tools       |Skills |
 |----------|------------|-------|
 |C++       |Git         |Agile Philosophy |
 |Java      |Docker      |CI/CD  |
 |Python    |Kubernetes  |MEAN stack       |
 |Bash      |Jenkins     |JAM stack       |
 |Java      |Docker      |DevOps       |
-|Python    |Kubernetes  |       |
-|C#        |Unity       |       |
+|Python    |Kubernetes  |Photo editing     |
+|C#        |Unity       |Video editing     |
 |          |CLi Utilites|       |
 |          |AngularJS   |       |
 |          |Static Site Generators|
