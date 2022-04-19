@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 - CS graduate of The UofSC
-- DevOps Engineer interested in becoming a Full Stack Developer
 
 ---
 
