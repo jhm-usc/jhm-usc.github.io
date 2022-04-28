@@ -1,8 +1,8 @@
 title: jhm-usc
 description: >-
-  Extreme detail about nonsense
+  Minutiae
 url: "https://www.jacksonmatthews.org"
-github_username:  jhm-usc
+  #github_username:  jhm-usc
 
 theme: minima
 plugins:
