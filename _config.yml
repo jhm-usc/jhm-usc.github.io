@@ -1,9 +1,0 @@
-title: jhm-usc
-description: >-
-  Minutiae
-url: "https://www.jacksonmatthews.org"
-  #github_username:  jhm-usc
-
-theme: minima
-plugins:
-  - jekyll-feed
