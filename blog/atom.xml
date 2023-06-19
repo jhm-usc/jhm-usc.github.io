@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jacksonmatthews.org/blog</id>
+    <title>jhm-usc Blog</title>
+    <updated>2023-06-19T04:21:28.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jacksonmatthews.org/blog"/>
+    <subtitle>jhm-usc Blog</subtitle>
+    <icon>https://jacksonmatthews.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[placeholder]]></title>
+        <id>https://jacksonmatthews.org/blog/placeholder</id>
+        <link href="https://jacksonmatthews.org/blog/placeholder"/>
+        <updated>2023-06-19T04:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Blog]]></summary>
+        <content type="html"><![CDATA[<p>Blog</p>]]></content>
+    </entry>
+</feed>
