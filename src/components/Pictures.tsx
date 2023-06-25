@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styles from './Pictures.module.css';
 import { PictureFileNames } from './PictureFiles'
 import { LazyLoadImage } from 'react-lazy-load-image-component'
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 export default function Pictures(): JSX.Element {
     return (
@@ -13,9 +14,7 @@ export default function Pictures(): JSX.Element {
                             <LazyLoadImage src={'./showcase/' + picturePath}
                             width='500px'
                             height='auto'
-                            placeholderSrc={'./showcase/' + picturePath}
                             effect='blur'
-                            visibleByDefault={true}
                             >
                             </LazyLoadImage>
                         </div>
