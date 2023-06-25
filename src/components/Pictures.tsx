@@ -9,11 +9,16 @@ export default function Pictures(): JSX.Element {
                 {PictureFileNames.map(picturePath => 
                     <div>
                         <h3>{ picturePath } A little somethin something</h3>
-                        <LazyLoadImage src={'./showcase/' + picturePath}
-                        width='25%'
-                        height='auto'
-                        >
-                        </LazyLoadImage>
+                        <div>
+                            <LazyLoadImage src={'./showcase/' + picturePath}
+                            width='500px'
+                            height='auto'
+                            placeholderSrc={'./showcase/' + picturePath}
+                            effect='blur'
+                            visibleByDefault={true}
+                            >
+                            </LazyLoadImage>
+                        </div>
                         <hr></hr>
                         <br></br>
                         <br></br>
