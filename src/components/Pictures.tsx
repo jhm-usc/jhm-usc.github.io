@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import styles from './Pictures.module.css';
 import { PictureFileNames } from './PictureFiles'
+import { LazyLoadImage } from 'react-lazy-load-image-component'
 
 export default function Pictures(): JSX.Element {
     return (
@@ -8,11 +9,11 @@ export default function Pictures(): JSX.Element {
                 {PictureFileNames.map(picturePath => 
                     <div>
                         <h3>{ picturePath } A little somethin something</h3>
-                        <img src={'./showcase/' + picturePath}
+                        <LazyLoadImage src={'./showcase/' + picturePath}
                         width='25%'
                         height='auto'
                         >
-                        </img>
+                        </LazyLoadImage>
                         <hr></hr>
                         <br></br>
                         <br></br>
