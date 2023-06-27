@@ -56,7 +56,13 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.png',
         },
-        items: [],
+        items: [
+          {
+            to: '/gallery',
+            label: 'Gallery',
+            position: 'left',
+          }
+        ],
       },
       footer: {
         style: 'dark',

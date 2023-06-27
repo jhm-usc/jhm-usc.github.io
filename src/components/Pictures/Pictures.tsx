@@ -5,26 +5,28 @@ import { LazyLoadImage } from 'react-lazy-load-image-component'
 import 'react-lazy-load-image-component/src/effects/blur.css';
 
 export default function Pictures(): JSX.Element {
+    const [isLoading, setIsLoading] = useState(true)
+
     return (
-            <div className={styles.pictures}>
+            <div>
                 {PictureFileNames.map((picturePath, index) => 
-                    <div key={index}>
+                    <div className={styles.post} key={picturePath}>
                         <h3>{ index + 1 }: A little somethin something</h3>
                         <div>
                             <LazyLoadImage 
+                                className={styles.picture}
                                 src={'./showcase/' + picturePath}
-                                width='500px'
-                                height='auto'
                                 effect='blur'
+                                onLoad={() => setIsLoading(false)}
                             />
                         </div>
                         <p>Caption or something maybe add here</p>
                         <hr></hr>
                         <br></br>
                         <br></br>
+                        { isLoading && (<h1>image loading</h1>) }
                     </div>
                 )}
-
             </div>
     );
 }
