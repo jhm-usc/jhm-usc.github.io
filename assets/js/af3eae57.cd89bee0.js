@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[744],{5927:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var u=n(7294),l=n(6125);function r(){return u.createElement("h1",null,"todo")}function a(){return u.createElement(l.Z,{title:"Some neat stuff"},u.createElement(r,null))}}}]);
