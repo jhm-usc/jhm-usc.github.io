@@ -14,7 +14,7 @@
 
 @media (min-width: 1000px) {
     .picture {
-        width: 50%;
-        height: 'auto';
+        width: 500px;
+        height: auto;
     }
 }
